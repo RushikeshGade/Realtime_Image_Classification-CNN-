@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-The ** Real-Time Image Classification System** is a Deep Learning application that performs real-time object recognition using a webcam. The project utilizes the pre-trained **MobileNetV2 Convolutional Neural Network (CNN)** model trained on the ImageNet dataset to classify objects captured by the camera and display predictions instantly.
+The Real-Time Image Classification System** is a Deep Learning application that performs real-time object recognition using a webcam. The project utilizes the pre-trained **MobileNetV2 Convolutional Neural Network (CNN)** model trained on the ImageNet dataset to classify objects captured by the camera and display predictions instantly.
 
 This project demonstrates the practical implementation of Computer Vision and Deep Learning for real-time image classification.
 
